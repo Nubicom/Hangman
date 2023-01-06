@@ -1,0 +1,12 @@
+chemistry
+physics
+biology
+mathematics
+agric
+economics
+government
+literature
+english
+yoruba
+history
+geography
